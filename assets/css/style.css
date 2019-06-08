@@ -1,0 +1,32 @@
+/* line 1, C:/wamp64/www/Classificados/assets/sass/style.scss */
+.nav-color {
+  background: #f9f9f9;
+}
+
+/* line 5, C:/wamp64/www/Classificados/assets/sass/style.scss */
+.nav-ajus {
+  flex-direction: row;
+}
+
+/* line 8, C:/wamp64/www/Classificados/assets/sass/style.scss */
+.nav-ajus li {
+  margin-right: 1em;
+}
+
+/* line 13, C:/wamp64/www/Classificados/assets/sass/style.scss */
+.jumbo-ajus {
+  text-align: center;
+  background-color: #1b1d20;
+}
+
+/* line 17, C:/wamp64/www/Classificados/assets/sass/style.scss */
+.jumbo-ajus h1 {
+  font-size: 2.25rem;
+  font-family: "Rubik", sans-serif;
+  font-weight: normal;
+  line-height: 1.2;
+  font-weight: normal;
+  color: #fff;
+}
+
+/*# sourceMappingURL=style.css.map */
